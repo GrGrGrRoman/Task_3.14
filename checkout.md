@@ -8,6 +8,6 @@
 
 Команда:
 
-```bash-
+```bash=
 git checkout
 ```

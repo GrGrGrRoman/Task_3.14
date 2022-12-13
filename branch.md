@@ -18,6 +18,6 @@
 
 Команда:
 
-```bash-
+```bash=
 git branch
 ```

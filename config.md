@@ -14,6 +14,6 @@
 
 Команда:
 
-```bash-
+```bash=
 git config
 ```

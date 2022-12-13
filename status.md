@@ -5,6 +5,6 @@
 
 Команда:
 
-```bash-
+```bash=
 git status
 ```

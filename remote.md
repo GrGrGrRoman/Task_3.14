@@ -16,6 +16,6 @@
 
 Команда:
 
-```bash-
+```bash=
 git remote
 ```

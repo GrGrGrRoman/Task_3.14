@@ -10,6 +10,6 @@
 
 Команда:
 
-```bash-
+```bash=
 git reset
 ```
